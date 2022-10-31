@@ -8,8 +8,6 @@ const Home: NextPage = () => {
       <Head>
         <title>Nextjs starter</title>
       </Head>
-
-      <h1>Nextjs starter</h1>
     </div>
   );
 };
